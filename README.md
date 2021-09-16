@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/RenatoMoratto"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoratto&hide=stars,issues,contribs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoratto&hide=issues,contribs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMoratto&layout=compact&langs_count=168&theme=react"/>
 </div>
 
