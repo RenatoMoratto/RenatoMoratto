@@ -5,15 +5,11 @@
   <img src="https://img.shields.io/badge/Estudando%3A-React-blue" />
 </div>
 
-##
-
-<div>
+<!-- <div>
   <a href="https://github.com/RenatoMoratto"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoratto&hide=issues,contribs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMoratto&layout=compact&langs_count=168&theme=react"/>
-</div>
-
-##
+</div> -->
 
 <div>
   <img align="center" alt="ReactJS" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
