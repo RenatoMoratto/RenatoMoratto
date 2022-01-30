@@ -13,7 +13,6 @@
 
 <div>
   <img align="center" alt="ReactJS" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="NodeJS"  width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JavaScript" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="CSS3" width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
   <img align="center" alt="HTML5" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
